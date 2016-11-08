@@ -1,0 +1,89 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "iTop_SSIS", "iTop_SSIS\iTop_SSIS.dtproj", "{F55522FB-4791-44BE-8CD1-4F6567DE5DCE}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "iTop_SSRS", "iTop_SSRS\iTop_SSRS.rptproj", "{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "iTop_SSAS", "iTop_SSAS\iTop_SSAS.dwproj", "{6EA05E74-4F54-4039-BA9F-960C0148DBFC}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.192.111:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = iTop_SSIS\\iTop_SSIS.dtproj
+		SccProjectName1 = iTop_SSIS
+		SccLocalPath1 = iTop_SSIS
+		SccProjectUniqueName2 = iTop_SSRS\\iTop_SSRS.rptproj
+		SccProjectName2 = iTop_SSRS
+		SccLocalPath2 = iTop_SSRS
+		SccProjectUniqueName3 = iTop_SSAS\\iTop_SSAS.dwproj
+		SccProjectName3 = iTop_SSAS
+		SccLocalPath3 = iTop_SSAS
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Development|Default = Development|Default
+		Release|Default = Release|Default
+		TreechawaSSRS|Default = TreechawaSSRS|Default
+		Venus.Phuket|Default = Venus.Phuket|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55522FB-4791-44BE-8CD1-4F6567DE5DCE}.Debug|Default.ActiveCfg = Development
+		{F55522FB-4791-44BE-8CD1-4F6567DE5DCE}.Debug|Default.Build.0 = Development
+		{F55522FB-4791-44BE-8CD1-4F6567DE5DCE}.DebugLocal|Default.ActiveCfg = Development
+		{F55522FB-4791-44BE-8CD1-4F6567DE5DCE}.DebugLocal|Default.Build.0 = Development
+		{F55522FB-4791-44BE-8CD1-4F6567DE5DCE}.Development|Default.ActiveCfg = Development
+		{F55522FB-4791-44BE-8CD1-4F6567DE5DCE}.Development|Default.Build.0 = Development
+		{F55522FB-4791-44BE-8CD1-4F6567DE5DCE}.Development|Default.Deploy.0 = Development
+		{F55522FB-4791-44BE-8CD1-4F6567DE5DCE}.Release|Default.ActiveCfg = Development
+		{F55522FB-4791-44BE-8CD1-4F6567DE5DCE}.Release|Default.Build.0 = Development
+		{F55522FB-4791-44BE-8CD1-4F6567DE5DCE}.TreechawaSSRS|Default.ActiveCfg = TreechawaSSRS
+		{F55522FB-4791-44BE-8CD1-4F6567DE5DCE}.TreechawaSSRS|Default.Build.0 = TreechawaSSRS
+		{F55522FB-4791-44BE-8CD1-4F6567DE5DCE}.Venus.Phuket|Default.ActiveCfg = Venus.Phuket
+		{F55522FB-4791-44BE-8CD1-4F6567DE5DCE}.Venus.Phuket|Default.Build.0 = Venus.Phuket
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.Debug|Default.ActiveCfg = Debug
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.Debug|Default.Build.0 = Debug
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.Debug|Default.Deploy.0 = Debug
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.DebugLocal|Default.Build.0 = DebugLocal
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.Development|Default.ActiveCfg = DebugLocal
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.Development|Default.Build.0 = DebugLocal
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.Development|Default.Deploy.0 = DebugLocal
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.Release|Default.ActiveCfg = Release
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.Release|Default.Build.0 = Release
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.Release|Default.Deploy.0 = Release
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.TreechawaSSRS|Default.ActiveCfg = TreechawaSSRS
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.TreechawaSSRS|Default.Build.0 = TreechawaSSRS
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.TreechawaSSRS|Default.Deploy.0 = TreechawaSSRS
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.Venus.Phuket|Default.ActiveCfg = Venus.Phuket
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.Venus.Phuket|Default.Build.0 = Venus.Phuket
+		{8A1438A6-54ED-48B5-AFB6-7FE1371ACE91}.Venus.Phuket|Default.Deploy.0 = Venus.Phuket
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.Debug|Default.ActiveCfg = Development
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.Debug|Default.Build.0 = Development
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.Debug|Default.Deploy.0 = Development
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.DebugLocal|Default.ActiveCfg = Development
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.DebugLocal|Default.Build.0 = Development
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.DebugLocal|Default.Deploy.0 = Development
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.Development|Default.ActiveCfg = Development
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.Development|Default.Build.0 = Development
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.Development|Default.Deploy.0 = Development
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.Release|Default.ActiveCfg = Development
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.Release|Default.Build.0 = Development
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.Release|Default.Deploy.0 = Development
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.TreechawaSSRS|Default.ActiveCfg = TreechawaSSRS
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.TreechawaSSRS|Default.Build.0 = TreechawaSSRS
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.TreechawaSSRS|Default.Deploy.0 = TreechawaSSRS
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.Venus.Phuket|Default.ActiveCfg = Venus.Phuket
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.Venus.Phuket|Default.Build.0 = Venus.Phuket
+		{6EA05E74-4F54-4039-BA9F-960C0148DBFC}.Venus.Phuket|Default.Deploy.0 = Venus.Phuket
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

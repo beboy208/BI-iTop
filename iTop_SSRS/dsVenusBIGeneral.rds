@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="dsVenusBIGeneral">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=venus.phuket.psu.ac.th;Initial Catalog=BI_General</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>c70567f1-9c76-4763-b753-e553ed69d999</DataSourceID>
+</RptDataSource>

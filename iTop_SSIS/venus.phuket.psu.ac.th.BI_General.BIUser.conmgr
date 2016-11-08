@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="venus.phuket.psu.ac.th.BI_General.BIUser"
+  DTS:DTSID="{9FE67EA8-839F-41EE-AEE3-861834BD44D9}"
+  DTS:CreationName="OLEDB"
+  p1:Salt="CE3U/to93A=="
+  p1:IV="7FChtaAFpbE=" xmlns:p1="www.microsoft.com/SqlServer/SSIS">QX4FRcsfa0gYSV3H3ecKg7h0iuWJmc9tM0AtYTlhRW2aeJTlxuc9cAYBHI3NUMtMW7DyiD6mdbXKHLI9ErTf9gM1+y0/3afwNwMYO3KAeATcH9xIela0vyVx0J93cstKVOYJtEwfQq7t+/9UIGSiUBNtfEuwWXwa20xoqC/BM8gKiVL3nxUTnWkpUA7wp9sA7IGKfBZZcg0gKAxGqw2KK25K6+igzIMXFdGYNj455BYkuNQeR2OiQxjg6ql0qinMArtD3y9isJMsJ1y+BiNrbr6rVcDdx6GFr40oFuhlXs/d9b2z8C/3QnyigIrf76T2YQp48rbSsRQXMGIZRoxJbuYOq24mZSUQc7wHGzF+O67WU8VrtrgePZ/Z108yT2M3N3pUcrQfGUPrnNqNEa+9EThjqOt4e6BOxv5c1f6Eou2+6+5ZiroLcsbNMgT7B8+axwiiAhyU41NVd5M7q7uHvnyAloK/fJhPMI64btVDkz06Ybj7ThpqGrPVF+qFJkMX+IHf2rhiZngiP9dn0joXTr8/FzwgWvug8aJT5pxnV1YnIgNDk75oFwMuOKCd8iJOx6CYzFSsJnYEP6z3aaZIB17wcJMn0k92DITJXxnqUJpDAUfzIg4BVEj49MZ6vgyLDRAuzsJY96Sen3Oh1oYVx3Ja0zbdKXSCANi/6306t1RrqxYr/5GU7GLShaUO4Yu9zyRR0xLCTg+WfOdE6RRQJnIGbM4Ll/5K</DTS:ConnectionManager>

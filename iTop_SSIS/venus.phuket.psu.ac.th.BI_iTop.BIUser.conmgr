@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="venus.phuket.psu.ac.th.BI_iTop.BIUser"
+  DTS:DTSID="{0E632DF4-AAFF-4CB0-AFD5-9733F2C01C68}"
+  DTS:CreationName="ADO"
+  p1:Salt="BhLMjZUT9A=="
+  p1:IV="3Y6phtlcXHE=" xmlns:p1="www.microsoft.com/SqlServer/SSIS">2M9ki1eNV887mwss5ghZuP4gy/BLiakld4RuD8Qtswa7KhNfRFX0Le2MQ265obFSZ7B3WCCZuHIhDgsOVShpE2LgplULG8mE9LzzzAQA/RBDDXYQ0ohlowJDh2U7fQiuL9ul10asimd2caHdGNSon4wB7rTCT5Gc1VPs44oluLjLKRqvMf/sR1p9S7T8QAfSsgM/ioXje5og08/4l+PeFLgzHcNxVCb9GVQUbzWjrdgSXXDm5Dgu7lClr1caRuMlTTsyLDys0iEWkA78WzqVL8y7aDYD0W2FAUdfD7OcmZUMVCYg7WLHPbb+mhFb4EbOqOng+JQsz253ZAeZVCYRQTqc6mLCfTI2Fab/lqd/1YpHDrGlcgNzjUlKkAcAW+tN1fct0XWNwNJElIt2LzSRTvQbA+lZVgYlcWnpEgJU+82F4Vbn2/xgQdbUCVFY8SsISowQqew0hTHAP9oO3UNAU+LE8v+Csx+TOuS7RBm5y2/u4IGjkleEFzby3JTmxI7//K5lN7PfMxyF6nj3xZGH7IKyaCrInXsljQLH4KmRjYi9eMMlC+0t9IzrodCm6AV8/aO964xXrEwXVe6ss/WvUmrUYmSIKn9EKFEJUuzLB7kEwaWjStUPyCKpuAonUeuRHlV7pgQslcYt2REe7uQ1ApVJTrgGk9TofohATIYXaWqoG9RHFKVSDsMtoZPYXm4owE2TgZvBdTzwu/8vPBin1Q==</DTS:ConnectionManager>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="PSUFINANCE.CIESORN"
+  DTS:DTSID="{40BD7570-6857-4745-862D-8F53F4A534DC}"
+  DTS:CreationName="ADO.NET:System.Data.OracleClient.OracleConnection, System.Data.OracleClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+  p1:Salt="aTy1rsospA=="
+  p1:IV="tKs8hT0bIg4=" xmlns:p1="www.microsoft.com/SqlServer/SSIS">gnubHp6lp2van9nRATzl3QleNJUcUX80ZBsFH+/0AJRs0nByzeuw4XtmnQTzDj3aplj83PlmiXm9vZUHo1FeN+Sb5ug//Bgn63DUuTHy1OBCboFdicBFw8LgI4I+GhIkLmkmau+pgWyGryIMeJh9n9RzbT2VWp6VOKWcxlYihaQXgiJKKdidjKg2tSg+eBjazLaWAcvManQ+wmMUTA9qBeV/PqUbcb5KDTT7E7qITpRC+DwGAsudLBKB85twW4USd1E2JuuBr4tSr7xIBLEtlFwkIqwIMw+UNa8UlSIEwoQZonss/RhxWdbLmZm7kicocsoe8iSCAnff9wCOtqpeit+af6pM/YEkQf5LU9AfPo22BZy+Er99xrP1Lm6gTRPAE470rTueIPrB1fClAnFfxmvffKmaYn8qasN6T4/vvMqSqKY0LSTmAqMNfUuCVIxNBl1n09mwZYJTFKDuG/deVH7hGOjvOgtcwNTetaTtgvD8M/dmY3Kaqqr9vIvoAySENas0/A1gVbN4P751AGIHGlVfCnfuWFy1FTQDvrZU/qPSuIhHZrsGu6x/6/u3QkccxGQ3JgYSWjPNi/PBalPFWDZxhteArD/QX6G06g5moYNEQIiZHHZchUZ3DrK40uiJ9S4lYle3vtdAm0fnXIm4ABa+faotHgP5zRPUxGe2MJZkgTMEfWjBOpaEJJsux13bSCmAJ5LxN09CoQ2Atnvb8DXvHz5SbBCIUKeQmsEdyZYW02ztUrPatXgyP9pNNulDsqgWJR2JAu7tOjrv82e0V5FBOn5OCnNd</DTS:ConnectionManager>
