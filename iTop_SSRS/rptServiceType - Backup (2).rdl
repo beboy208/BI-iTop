@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns:cl="http://schemas.microsoft.com/sqlserver/reporting/2010/01/componentdefinition">
+<Report xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns:cl="http://schemas.microsoft.com/sqlserver/reporting/2010/01/componentdefinition" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/reportdefinition">
   <AutoRefresh>0</AutoRefresh>
   <DataSources>
     <DataSource Name="dsiTop">
@@ -2991,9 +2991,6 @@ Sum(iif(Fields!GD_DateID.Value=Parameters!MonthYearFrom.Value, 1, 0) * Fields!Nu
                               <StateDataElementName />
                               <rd:IconsSet>ThreeUpDownTriangles</rd:IconsSet>
                               <Style>
-                                <Border>
-                                  <Style>Solid</Style>
-                                </Border>
                                 <ShadowOffset>2pt</ShadowOffset>
                               </Style>
                               <Top>25</Top>
@@ -3551,9 +3548,6 @@ Sum(iif(Fields!GD_DateID.Value=Parameters!MonthYearFrom.Value, 1, 0) * Fields!Nu
                               <StateDataElementName />
                               <rd:IconsSet>ThreeUpDownTriangles</rd:IconsSet>
                               <Style>
-                                <Border>
-                                  <Style>Solid</Style>
-                                </Border>
                                 <ShadowOffset>2pt</ShadowOffset>
                               </Style>
                               <Top>4</Top>
@@ -4808,29 +4802,6 @@ Sum(iif(Fields!GD_DateID.Value=Parameters!MonthYearFrom.Value, 1, 0) * Fields!Nu
       </cl:ComponentMetadata>
     </ReportParameter>
   </ReportParameters>
-  <ReportParametersLayout>
-    <GridLayoutDefinition>
-      <NumberOfColumns>2</NumberOfColumns>
-      <NumberOfRows>2</NumberOfRows>
-      <CellDefinitions>
-        <CellDefinition>
-          <ColumnIndex>0</ColumnIndex>
-          <RowIndex>0</RowIndex>
-          <ParameterName>MonthYearFrom</ParameterName>
-        </CellDefinition>
-        <CellDefinition>
-          <ColumnIndex>1</ColumnIndex>
-          <RowIndex>0</RowIndex>
-          <ParameterName>MonthYearTo</ParameterName>
-        </CellDefinition>
-        <CellDefinition>
-          <ColumnIndex>0</ColumnIndex>
-          <RowIndex>1</RowIndex>
-          <ParameterName>ServiceName</ParameterName>
-        </CellDefinition>
-      </CellDefinitions>
-    </GridLayoutDefinition>
-  </ReportParametersLayout>
   <Language>th-TH</Language>
   <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
   <rd:ReportUnitType>Inch</rd:ReportUnitType>
